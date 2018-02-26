@@ -20,7 +20,7 @@
     "redux": "^3.6.0"
   },
   "scripts": {
-    "start": "nf start",
+    "start": "react-scripts start",
     "lint": "eslint src",
     "react-app": "react-scripts start",
     "api": "json-server --id _id --watch --port 4000 db.json",
